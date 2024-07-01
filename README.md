@@ -1,6 +1,3 @@
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 Features:
 Implemented with React functional components and hooks (useState, useRef).
 Uses CSS for basic styling and includes icons for X and O.
